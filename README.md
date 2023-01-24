@@ -1,2 +1,2 @@
 # JSapplicationExamPrep
- a few tasks to get prepared for the final exam
+CRUD operations, REST services, AJAX, Async/Await, SPA, routing.
